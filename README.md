@@ -1,5 +1,5 @@
 ### 安装
-在线安装地址：https://thepandastudio.github.io/stepndownload/
+在线安装地址：https://thepandastudio.github.io/stepndownloadvip001/
 ### 最新版本
 最新版本可以通过海外邮箱发送任意内容到 stepnService@pm.me
 ### 使用说明
